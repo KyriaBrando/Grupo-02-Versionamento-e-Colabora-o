@@ -1,1 +1,8 @@
- O deserto é repleto de dunas, relevos que constantemente se modificam  de maneira suave por conta das ventanias, o jogador consegue observar algumas partículas sendo arrebatadas pelo vento. Ao explorar o deserto o jogador pode encontrar plantas que acumulam água em suas folhas, ou cactos que ele pode abrir para recuperar a sua sede. No horizonte o player vai se guiar pela ponta das Pirâmides de Gizé, e caso siga a direção contrária terá uma barreira que o impedira de avançar. Ao chegar nas proximidades das pirâmides terá uma presença da flora viva bem marcada por conta da irrigação, onde os npcs vivem e trabalham diariamente em plantações, o player pode interagir com alguns deles para coletar informações e fazer missões. Ao explorar a cidade o player encontrará um comercio vivo, e templos repletos de pessoas, com gatos que caminham de maneira presunçosa.
+ O deserto é repleto de dunas, relevos que constantemente se modificam  de maneira suave por conta das ventanias, o jogador 
+consegue observar algumas partículas sendo arrebatadas pelo vento. Ao explorar o deserto o jogador pode encontrar plantas 
+que acumulam água em suas folhas, ou cactos que ele pode abrir para recuperar a sua sede. No horizonte o player vai se guiar 
+pela ponta das Pirâmides de Gizé, e caso siga a direção contrária terá uma barreira que o impedira de avançar. Ao chegar nas 
+proximidades das pirâmides terá uma presença da flora viva bem marcada por conta da irrigação, onde os npcs vivem e 
+trabalham diariamente em plantações, o player pode interagir com alguns deles para coletar informações e fazer missões. Ao 
+explorar a cidade o player encontrará um comercio vivo, e templos repletos de pessoas, com gatos que caminham de maneira 
+presunçosa.

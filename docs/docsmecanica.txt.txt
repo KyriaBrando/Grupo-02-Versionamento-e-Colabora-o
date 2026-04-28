@@ -1,0 +1,2 @@
+O personagem pode pular duas vezes no ar.
+Existe um cooldown de 1 segundo entre pulos.
